@@ -7,9 +7,9 @@ This project allows users to **add** and **remove** tasks dynamically, making ta
 
 ## 📹 Project Demo
 
-<video src="https://github.com/shruti-tiwari761/To-do-list/raw/main/todolist.mp4" controls="controls" width="700">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo](./screenshot.png)](https://github.com/shruti-tiwari761/To-do-list/raw/main/todolist.mp4)
+
+
 
 ## ✨ Features
 
