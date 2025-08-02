@@ -7,11 +7,9 @@ This project allows users to **add** and **remove** tasks dynamically, making ta
 
 ## 📹 Project Demo
 
-Check out the demo below:  
-
-[![Watch the video](https://img.shields.io/badge/▶️-Click%20Here%20to%20View%20Demo-blue)](https://github.com/shruti-tiwari761/To-do-list/blob/main/todolist.mp4)
-
----
+<video src="https://github.com/shruti-tiwari761/To-do-list/raw/main/todolist.mp4" controls="controls" width="700">
+  Your browser does not support the video tag.
+</video>
 
 ## ✨ Features
 
